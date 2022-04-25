@@ -1,3 +1,8 @@
+<!-- 
+  1. To run this code you will have to first install apache server and squl.
+  2. Creat a database with in the name of todolist, and the go on to creat a table in the name of list
+  3.The table should have four columns (sl.no , title, discription, timestamp)
+-->
 <?php
 $update=false;
 $alert=false;
